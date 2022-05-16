@@ -1,5 +1,5 @@
 # Chip-8-Phython
-A Chip-8 Emulator mainly in python
+A Chip-8 Emulator Made In Pure python
 # Info
 The CHIP-8 system uses a hex keypad for entry, and a 64x32 monochrome screen for output. There is also facility for producing a beep as sound output, although this hasn't been implemented.
 
